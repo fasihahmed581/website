@@ -1,0 +1,171 @@
+header{
+    
+    text-align: center;
+    width: 1000px;
+    height: 100px;
+    width: 100;
+    }
+
+.form{
+        text-align: center;
+        padding: 45px;
+    }
+.image{
+    float: left;    
+}
+nav{
+    height: 600px;
+    text-align: left;
+    flex-direction: col;
+    margin-top: 40px;
+    width: 100%;
+    padding: 5px;
+    font-size: xx-large;
+    background-image: url(nedpic1.jpg);
+    background-size: 1190px;
+    background-repeat: no-repeat;
+    background-color: black;  
+}
+main{
+    margin-top: 100px;
+}
+.image1{
+    border: 2px solid;
+    height: 300px;
+    width: 250px;
+    margin-right: 100px;
+    background-color: white; 
+    display: inline-block;     
+}
+.image2{
+    border: 2px solid;  
+    width: 250px;
+    height: 300px;
+    margin-right: 100px;
+    background-color: white;  
+    display: inline-block; 
+}
+.image3{
+    border: 2px solid;
+    height: 300px;
+    width: 250px;
+    background-color: white;  
+    display: inline-block;
+}
+footer{
+    margin-top: 100px;
+    border: 1px solid;
+    height: 170px;
+    width: 100%;
+    background: black;
+}
+.footer1{
+  padding-top: 35px;
+  padding-left: 10px;
+}
+.footer2{
+    padding-left: 10px;
+    padding-bottom:5px;
+}
+
+
+
+body{
+    background-color: rgb(250, 245, 245);
+}
+.h1{
+    font-size: xx-large;
+}
+.blog1{
+    border: 1px solid;
+    width: 500px;
+    height: 200px;
+    padding: 30px;
+
+}
+.blog2{
+    border: 1px solid;
+    width: 500px;
+    height: 200px;
+    padding: 30px;
+    margin-top: 50px;
+
+}
+.form1{
+    padding: 50px;
+    border: 2px solid;
+    width: 900px;
+    height: 400px;
+}
+nav1{
+    text-align: center;
+}
+.contact1{
+    margin-top: 50px;
+    border: 1px solid;
+    width: 200px;
+    height: 50px;
+    display: inline-block;
+    margin-left: 310px;
+}
+
+.contact2{
+    border: 1px solid;
+    width: 150px;
+    height: 50px;
+    display: inline-block;
+    margin-left: 200px;
+}
+.contact3{
+    margin-top: 50px;
+}
+main{
+    margin-left: 150px;
+    
+}
+.contact4{
+    border: 1px solid;
+    margin-top: 100px;
+    width: 200px;
+    height: 200px;
+    text-align: left;
+    padding: 50px;
+    display: inline-block;
+  
+}
+.contact5{
+    border: 1px solid;
+    display: inline-block;
+    flex-direction: row;
+    margin-left: 100px;
+    margin-top: 100px;
+}
+.about{
+    margin-top: 100px;
+}
+.about1{
+    border: 2px solid;
+    width: 250px;
+    height: 300px;
+    display: inline-block;
+    margin-left: 50px;
+    padding: 20px;
+   
+}
+.about2{
+    border: 2px solid;
+    width: 250px;
+    height: 300px;
+    display: inline-block;
+    margin-left: 100px;
+    padding: 20px;
+}
+.about3{
+    border: 2px solid;
+    width: 250px;
+    height: 300px;
+    display: inline-block;
+    margin-left: 100px;
+    padding: 20px;
+}
+
